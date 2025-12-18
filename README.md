@@ -17,4 +17,4 @@ Reports | contains report explaining results and associated rmarkdown files
 #Updates
 Date | Work done
 12/12/2025 | Initial Github commit and copying of code to 
-
+12/17/2025 | Updated 1_datgen_lean.R file; extended the PS and Outcome models to include a key predictor + confounding (for PS model) and covariates (for outcome model)
