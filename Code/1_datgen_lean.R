@@ -2,6 +2,20 @@
 #(https://doi.org/10.1093/aje/kwae148)
 #https://github.com/marknwarden/Statistical-approaches-for-the-integration-of-external-controls-in-CF-code.git
 
+#Notes for next time:
+#1) Justify choice of estimators
+#2) Conditions:
+#  a)Multicollinearity: find the approximate correlation that ensures a VIF of 2 and 4 and 6 [3 conditions]
+#  b)Misspecification: missing variable of different magnitudes (of the betas) and incorrect functional form [3 conditions]
+#  c)Contamination: linear predictor contamination of 3 proportions [3 conditions]
+
+#Todo
+#Check the possibility: Implement probability integral transform to generate correlated variables of different distributions in the exposure model
+#should the contamination be applied to the linear predictor from the exposure model since the model is a multivariable one
+#Check (theory, simulation, application): Constant adjustment to power for simpler extension of two-sample test to regression setting where R^2 increases, independent samples case
+
+
+
 library(MASS)
 
 datgen <- function(n.per.arm, rand.rat, corr.3, cont.prop, bsl.prev=0.4, var.cont=4){
