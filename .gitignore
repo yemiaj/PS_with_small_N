@@ -1,7 +1,7 @@
 .Rproj.user
 
 # Text files
-*.csv
+#*.csv
 
 # History files
 .Rhistory
@@ -20,3 +20,4 @@
 # knitr and R markdown default cache directories
 /*_cache/
 /cache/
+.positai
