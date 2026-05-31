@@ -1,0 +1,115 @@
+PubMed login (https://pubmed.ncbi.nlm.nih.gov/): email is j*********emi@gmail.com
+
+Search query:
+
+(("propensity score analysis" OR "propensity score methods") AND ("finite sample" OR "small sample") AND ("observational stud*" OR "causal inference" OR "confounding"))
+ 
+OR 
+
+(("propensity score" OR "inverse probability weighting") AND ("simulation" OR "Monte Carlo") AND ("sample size" OR "small sample") AND ("performance" OR "bias" OR "efficiency" OR "precision"))
+ 
+OR 
+
+(("propensity score" OR "inverse probability weighting" OR "IPTW" OR "propensity score matching") AND ("small sample" OR "small sample size" OR "finite sample" OR "limited sample size") AND ("bias" OR "variance" OR "power" OR "type I error" OR "coverage" OR "mean squared error" OR "operating characteristics" OR "statistical properties"))
+
+
+Query returned 246 results
+Link: https://pubmed.ncbi.nlm.nih.gov/?term=%28%28%22propensity+score+analysis%22+OR+%22propensity+score+methods%22%29+AND+%28%22finite+sample%22+OR+%22small+sample%22%29+AND+%28%22observational+stud%2A%22+OR+%22causal+inference%22+OR+%22confounding%22%29%29%0D%0A+%0D%0AOR+%0D%0A%0D%0A%28%28%22propensity+score%22+OR+%22inverse+probability+weighting%22%29+AND+%28%22simulation%22+OR+%22Monte+Carlo%22%29+AND+%28%22sample+size%22+OR+%22small+sample%22%29+AND+%28%22performance%22+OR+%22bias%22+OR+%22efficiency%22+OR+%22precision%22%29%29%0D%0AOR+%0D%0A%0D%0A%28%28%22propensity+score%22+OR+%22inverse+probability+weighting%22+OR+%22IPTW%22+OR+%22propensity+score+matching%22%29+AND+%28%22small+sample%22+OR+%22small+sample+size%22+OR+%22finite+sample%22+OR+%22limited+sample+size%22%29+AND+%28%22bias%22+OR+%22variance%22+OR+%22power%22+OR+%22type+I+error%22+OR+%22coverage%22+OR+%22mean+squared+error%22+OR+%22operating+characteristics%22+OR+%22statistical+properties%22%29%29%0D%0A&sort=pubdate
+
+
+Google Scholar (logged in with j*********emi@gmail.com)
+
+Search 1: ("propensity score" "small sample" bias variance simulation) OR ("propensity score matching" "small sample size" performance "Monte Carlo")  OR ("inverse probability weighting" "small sample" coverage "confidence interval") OR ("propensity score" "finite sample properties" matching weighting) OR ("propensity score" "sample size" "operating characteristics" observational) OR ("propensity score stratification" "small sample" bias efficiency)
+
+Search 2: ("propensity score" "small sample" bias variance simulation)  OR  ("propensity score matching" "small sample size" performance "Monte Carlo")  OR  ("inverse probability weighting" "small sample" coverage "confidence interval") 
+
+Search 3: ("propensity score" "finite sample properties" matching weighting) OR ("propensity score" "sample size" "operating characteristics" observational) OR ("propensity score stratification" "small sample" bias efficiency)
+
+
+Search 1 (62 results): https://scholar.google.com/scholar?as_sdt=0,39&q=(%22propensity+score%22+%22small+sample%22+bias+variance+simulation)++OR++(%22propensity+score+matching%22+%22small+sample+size%22+performance+%22Monte+Carlo%22)++OR++(%22inverse+probability+weighting%22+%22small+sample%22+coverage+%22confidence+interval%22)++OR++(%22propensity+score%22+%22finite+sample+properties%22+matching+weighting)++OR++(%22propensity+score%22+%22sample+size%22+%22operating+characteristics%22+observational)++OR++(%22propensity+score+stratification%22+%22small+sample%22+bias+efficiency)&hl=en
+
+Search 2: (478 results): https://scholar.google.com/scholar?hl=en&as_sdt=0%2C39&q=%28%22propensity+score%22+%22small+sample%22+bias+variance+simulation%29++OR++%28%22propensity+score+matching%22+%22small+sample+size%22+performance+%22Monte+Carlo%22%29++OR++%28%22inverse+probability+weighting%22+%22small+sample%22+coverage+%22confidence+interval%22%29+&btnG=
+
+Search 3: (13 results): https://scholar.google.com/scholar?hl=en&as_sdt=0%2C39&q=%28%22propensity+score%22+%22finite+sample+properties%22+matching+weighting%29++OR++%28%22propensity+score%22+%22sample+size%22+%22operating+characteristics%22+observational%29++OR++%28%22propensity+score+stratification%22+%22small+sample%22+bias+efficiency%29&btnG=
+
+
+
+
+
+Web of Science search (use CU Anschutz library resource link)
+
+Search for this ("propensity score" AND ("small sample" OR "finite sample" OR "limited sample size") AND ("bias" OR "power" OR "type I error" OR "coverage" OR "mean squared error" OR "operating characteristics")) 
+gave 261 results: 
+https://www.webofscience.com/wos/woscc/summary/1e4a96c9-2d52-4e50-926e-98c97bce26a1-01b5fdee61/f795c42f-ea3a-4294-bd21-5a00439b47ef-01b5fdee3f/relevance/1
+
+
+Search for this ("propensity score matching" OR "inverse probability weighting") AND ("Monte Carlo" OR "simulation study") AND ("sample size" OR "small sample") 
+gave 132 results:
+https://www.webofscience.com/wos/woscc/summary/dc2464e2-d5d9-4f7f-882d-c3dec462727b-01b5fdfb88/df3666e2-d036-442e-82ef-1ca2632c25f5-01b5fdfb85/relevance/1
+
+
+Search for this ("propensity score" AND ("rare exposure" OR "infrequent exposure" OR "low prevalence") AND ("matching" OR "weighting" OR "stratification"))
+gave 124 results: 
+https://www.webofscience.com/wos/woscc/summary/3e894a32-6537-4527-a060-f8f30626fd45-01b5fdf4d0/f08bd117-5bf7-4dec-8f0a-ba16bedc2be3-01b5fdf4bf/relevance/1
+
+
+
+Combined search for this (("propensity score" AND ("small sample" OR "finite sample" OR "limited sample size")      AND ("bias" OR "power" OR "type I error" OR "coverage" OR "mean squared error" OR "operating characteristics"))     OR     (("propensity score matching" OR "inverse probability weighting")      AND ("Monte Carlo" OR "simulation study")      AND ("sample size" OR "small sample"))     OR     ("propensity score" AND ("rare exposure" OR "infrequent exposure" OR "low prevalence")      AND ("matching" OR "weighting" OR "stratification")))
+gave 311 results:
+https://www.webofscience.com/wos/woscc/summary/5444dfdc-bb44-4537-bf55-058e80389e89-01b5fe21cc/7f57848d-11ce-4437-adc3-19fb7a75fd52-01b5fe21be/relevance/1
+
+
+
+
+
+
+
+
+Core Databases
+1)Google Scholar
+2)Scopus
+3)Web of Science
+4)PubMed
+
+Grey Literature
+a)ProQuest Dissertations & Theses --> Unpublished research; reduces publication bias
+b)SSRN / bioRxiv / medRxiv --> Preprints for cutting-edge, not-yet-published work
+
+
+
+
+
+Other tips
+
+Use controlled vocabulary (MeSH in PubMed, Emtree in Embase) alongside free-text terms
+Set date limits only if your review has a specific timeframe rationale
+Document your database choices and search strings — reviewers increasingly expect this even for narrative reviews
+Consider PROSPERO registration if your narrative review has a focused clinical question
+
+
+
+
+Todo 05/20
+Upload found publications, add key search term and expand on this term
+Work on data generation function (for binary outcome, continuous outcome)
+
+PubMed
+("propensity score"[tiab] OR "propensity scores"[tiab] OR "propensity score matching"[tiab] OR "PSM"[tiab] OR "inverse probability weighting"[tiab] OR "IPTW"[tiab]) AND ("small sample"[tiab] OR "finite sample"[tiab] OR "small N"[tiab] OR "limited sample"[tiab] OR "infrequent exposure"[tiab] OR "sparse data"[tiab]) AND ("operating characteristics"[tiab] OR "bias"[tiab] OR "variance"[tiab] OR "mean squared error"[tiab] OR "MSE"[tiab] OR "simulation"[tiab] OR "Monte Carlo"[tiab] OR "power"[tiab] OR "type I error"[tiab] OR "coverage"[tiab])
+
+
+Scopus
+TITLE-ABS-KEY ( ("propensity score*" OR "propensity score matching" OR "PSM" OR "inverse probability weighting" OR "IPTW") AND ("small sample*" OR "finite sample*" OR "small N" OR "limited sample" OR "infrequent exposure*" OR "sparse data") AND ("operating characteristics" OR "bias" OR "variance" OR "mean squared error" OR "MSE" OR "simulation*" OR "Monte Carlo" OR "power" OR "type I error" OR "coverage") )
+
+Web of Science
+TS=(("propensity score*" OR "propensity score matching" OR "PSM" OR "inverse probability weighting" OR "IPTW") AND ("small sample*" OR "finite sample*" OR "small N" OR "limited sample" OR "infrequent exposure*" OR "sparse data") AND ("operating characteristics" OR "bias" OR "variance" OR "mean squared error" OR "MSE" OR "simulation*" OR "Monte Carlo" OR "power" OR "type I error" OR "coverage"))
+
+Google Scholar
+"propensity score" OR "inverse probability weighting" "small sample" OR "finite sample" "simulation" OR "bias" OR "operating characteristics"
+
+OR
+
+"propensity score matching" OR "IPTW" "small sample size" OR "small N" "mean squared error" OR "type I error" OR "coverage"
+
+
+
+
