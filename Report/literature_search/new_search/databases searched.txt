@@ -34,8 +34,6 @@ Search 3: (13 results): https://scholar.google.com/scholar?hl=en&as_sdt=0%2C39&q
 
 
 
-
-
 Web of Science search (use CU Anschutz library resource link)
 
 Search for this ("propensity score" AND ("small sample" OR "finite sample" OR "limited sample size") AND ("bias" OR "power" OR "type I error" OR "coverage" OR "mean squared error" OR "operating characteristics")) 
@@ -65,9 +63,11 @@ https://www.webofscience.com/wos/woscc/summary/5444dfdc-bb44-4537-bf55-058e80389
 
 
 
+
+
 Core Databases
 1)Google Scholar
-2)Scopus
+2)Scopus (I/we don't have Scopus access)
 3)Web of Science
 4)PubMed
 
@@ -75,40 +75,16 @@ Grey Literature
 a)ProQuest Dissertations & Theses --> Unpublished research; reduces publication bias
 b)SSRN / bioRxiv / medRxiv --> Preprints for cutting-edge, not-yet-published work
 
-
-
-
-
 Other tips
 
 Use controlled vocabulary (MeSH in PubMed, Emtree in Embase) alongside free-text terms
-Set date limits only if your review has a specific timeframe rationale
 Document your database choices and search strings — reviewers increasingly expect this even for narrative reviews
-Consider PROSPERO registration if your narrative review has a focused clinical question
-
-
-
 
 Todo 05/20
 Upload found publications, add key search term and expand on this term
 Work on data generation function (for binary outcome, continuous outcome)
 
-PubMed
-("propensity score"[tiab] OR "propensity scores"[tiab] OR "propensity score matching"[tiab] OR "PSM"[tiab] OR "inverse probability weighting"[tiab] OR "IPTW"[tiab]) AND ("small sample"[tiab] OR "finite sample"[tiab] OR "small N"[tiab] OR "limited sample"[tiab] OR "infrequent exposure"[tiab] OR "sparse data"[tiab]) AND ("operating characteristics"[tiab] OR "bias"[tiab] OR "variance"[tiab] OR "mean squared error"[tiab] OR "MSE"[tiab] OR "simulation"[tiab] OR "Monte Carlo"[tiab] OR "power"[tiab] OR "type I error"[tiab] OR "coverage"[tiab])
 
-
-Scopus
-TITLE-ABS-KEY ( ("propensity score*" OR "propensity score matching" OR "PSM" OR "inverse probability weighting" OR "IPTW") AND ("small sample*" OR "finite sample*" OR "small N" OR "limited sample" OR "infrequent exposure*" OR "sparse data") AND ("operating characteristics" OR "bias" OR "variance" OR "mean squared error" OR "MSE" OR "simulation*" OR "Monte Carlo" OR "power" OR "type I error" OR "coverage") )
-
-Web of Science
-TS=(("propensity score*" OR "propensity score matching" OR "PSM" OR "inverse probability weighting" OR "IPTW") AND ("small sample*" OR "finite sample*" OR "small N" OR "limited sample" OR "infrequent exposure*" OR "sparse data") AND ("operating characteristics" OR "bias" OR "variance" OR "mean squared error" OR "MSE" OR "simulation*" OR "Monte Carlo" OR "power" OR "type I error" OR "coverage"))
-
-Google Scholar
-"propensity score" OR "inverse probability weighting" "small sample" OR "finite sample" "simulation" OR "bias" OR "operating characteristics"
-
-OR
-
-"propensity score matching" OR "IPTW" "small sample size" OR "small N" "mean squared error" OR "type I error" OR "coverage"
 
 
 
