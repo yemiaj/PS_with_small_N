@@ -83,3 +83,24 @@ lit.sources <- merge(lit.sources,
 #Output pooled articles for manual review to identify those relevant to the project
 write.csv(lit.sources, "./Report/literature_search/new_search/all.pooled.articles_05312026.csv")
 
+
+
+
+#apply propercase() to the Article Title to get actual N in common
+goo.sch2 <- goo.sch
+goo.sch2$Title <- tools::toTitleCase(goo.sch2$Title)
+
+pmed2 <- pmed
+pmed2$Title <- tools::toTitleCase(pmed2$Title)
+
+webos2 <- webos
+webos2$Title <- tools::toTitleCase(webos2$Title)
+
+#Merge sources in 2 steps
+lit.sources2 <- merge(goo.sch2[,c("Title", "Year.gschol", "source.gschol", "Abstract.gschol")],
+                     pmed2[,c("Title", "Year.pubmed", "source.pubmed")],
+                     by="Title", all=TRUE)
+
+lit.sources2 <- merge(lit.sources2,
+                     webos2[,c("Title", "Year.webos", "source.webos", "Abstract.webos")],
+                     by="Title", all=TRUE)
